@@ -1,6 +1,6 @@
-# UTEK2022
+# UTEK 2022
 
-The main repository for our submission to UTEK2022 Programming Competition.
+The main repository for our submission to the UTEK 2022 Programming Competition.
 
 Team
 ------------
