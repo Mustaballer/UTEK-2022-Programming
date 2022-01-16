@@ -1,0 +1,3 @@
+Robot Name: swift; Movement Efficiency: 1; Cleaning Efficiency: 1;
+Location Number: 0; Time required: 4; Location: 2 3;
+Location Number: 1; Time required: 6; Location: 4 5;

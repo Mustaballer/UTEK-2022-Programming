@@ -1,0 +1,10 @@
+(#robots, #locations, #obstacles)
+
+for robots:
+    (name, moveEff, cleanEff)
+
+for locations:
+    (x, y, timeRequired)
+
+for obstacles:
+    (blX, blY, trX, trY)

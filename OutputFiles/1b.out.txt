@@ -1,0 +1,15 @@
+Robot Name: swift; Movement Efficiency: 6; Cleaning Efficiency: 8;
+Robot Name: swifter; Movement Efficiency: 6; Cleaning Efficiency: 4;
+Robot Name: clean; Movement Efficiency: 9; Cleaning Efficiency: 2;
+Location Number: 0; Time required: 6; Location: 7 2;
+Location Number: 1; Time required: 4; Location: 7 98;
+Location Number: 2; Time required: 32; Location: 53 54;
+Location Number: 3; Time required: 69; Location: 69 69;
+Location Number: 4; Time required: 53; Location: 21 55;
+Location Number: 5; Time required: 83; Location: 23 56;
+Location Number: 6; Time required: 99; Location: 85 33;
+Location Number: 8; Time required: 43; Location: 93 31;
+Location Number: 9; Time required: 48; Location: 67 12;
+Location Number: 10; Time required: 24; Location: 72 81;
+Location Number: 11; Time required: 34; Location: 22 22;
+Location Number: 14; Time required: 1; Location: 99 99;

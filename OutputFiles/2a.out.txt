@@ -1,0 +1,14 @@
+Robot talk
+move 1 1
+move 2 2
+move 3 3
+move 3 4
+move 3 5
+clean 3 5
+move 4 4
+move 5 4
+clean 5 4
+move 6 5
+move 7 6
+move 8 6
+clean 8 6
