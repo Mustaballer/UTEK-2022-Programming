@@ -23,7 +23,19 @@ Our Algorithm
 ------------
 Part 1: We aggregated all of the files into lists.
 Part 2: The targets were chosen by looking at the ones minimally distant from the robot. The robot then travels in a diagonal path as much as possible to reach the target. This minimized time travelled.
+
+<img src="https://media0.giphy.com/media/z6XS1o9qbVe0TUlbDe/giphy.gif" alt="Part 2 Alg" width="550"/>
+
+(*Built via Pygame*)
+
+
 Part 3: The A* algorithm [1][2] was used to devise the optimal path for the robot to take to its targets
+
+<img src="https://media3.giphy.com/media/MBbGh9WNrfo13z7Tag/giphy.gif" alt="A* Algorithim" width="550"/>
+
+(*Built via Pygame*)
+
+
 Part 4: The same process was used in part 2, but we calculated which robot would have the least energy usage by running part 2 for all of them and used the best robot.
 
 In the Future...
